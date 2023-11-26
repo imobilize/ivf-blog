@@ -24,7 +24,7 @@ weight = 2
 
 [[main]]
 parent = "Articles"
-name = "Cruises"
+name = "Latest Research"
 url = "articles/cruises/"
 weight = 3
 
@@ -32,6 +32,12 @@ weight = 3
 name = "Contact"
 url = "contact/"
 weight = 3
+
+[[main]]
+parent = "Articles"
+name = "Free Resources"
+url = "articles/cruises/"
+weight = 4
 
 
 # footer menu
