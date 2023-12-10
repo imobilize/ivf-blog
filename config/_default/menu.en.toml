@@ -10,34 +10,18 @@ url = "#"
 hasChildren = true
 weight = 1
 
-[[main]]
-parent = "Articles"
-name = "Fertility"
-url = "articles/travel/"
-weight = 1
 
 [[main]]
 parent = "Articles"
 name = "IVF"
 url = "articles/lifestyle/"
-weight = 2
+weight = 1
 
-[[main]]
-parent = "Articles"
-name = "Latest Research"
-url = "articles/cruises/"
-weight = 3
 
 [[main]]
 name = "Contact"
 url = "contact/"
 weight = 3
-
-[[main]]
-parent = "Articles"
-name = "Free Resources"
-url = "articles/cruises/"
-weight = 4
 
 
 # footer menu

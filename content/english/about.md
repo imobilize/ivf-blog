@@ -1,7 +1,7 @@
 ---
 title: ""
-image: "images/.jpg"
-description: "this is meta description"
+image: "images/author.jpg"
+description: "about"
 sidebar: true
 widgets: ["recommended","categories"]
 draft: false
