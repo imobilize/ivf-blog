@@ -31,7 +31,7 @@ Hormones are powerful - amazingly powerful. If you’ve experienced PMS before, 
 <br />
 As a result your body will change. In some cruel twisted way, you may even appear pregnant. Think bloating, abdominal bruising, water retention, weight gain, skin changes and an inability to exercise normally leading up to and for a two week period after egg retrieval. Not fun. Truth be told, I expected the hormones to play havoc with my moods but the the degree to which my body changed - totally unprepared for.   
 <br />
-There are ways and means to support yourself through these changes. A good lymphatic massage (add link) (timed correctly) helps as well as sharing your vulnerability with your partner.  The thing I have found most beneficial? Supportive self-talk. Affirmations always felt woo woo to me until I let the barrier drop. Personally, I found the silva method (add affiliate link) really helpful and once I got over myself, ‘every day in every way, I’m getting better and better and better’ became my mantra. Notice how you straighten your spine, lift your chin and feel empowered after repeating this aloud to yourself every day ;)   
+There are ways and means to support yourself through these changes. A good lymphatic massage (timed correctly) helps as well as sharing your vulnerability with your partner.  The thing I have found most beneficial? Supportive self-talk. Affirmations always felt woo woo to me until I let the barrier drop. Personally, I found the silva method really helpful and once I got over myself, ‘every day in every way, I’m getting better and better and better’ became my mantra. Notice how you straighten your spine, lift your chin and feel empowered after repeating this aloud to yourself every day ;)   
 <br />
 
 
