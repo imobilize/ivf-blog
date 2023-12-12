@@ -11,7 +11,7 @@ og_image = "/images/placeholder.jpg"
 # contact info
 address = ""
 mobile = ""
-email = "hello@reporter.com"
+email = "admin@ivf-journey.com"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # custom script on header
