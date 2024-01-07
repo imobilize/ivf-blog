@@ -13,7 +13,7 @@ type this command in the terminal 'cd /Users/lisaduffin/Documents/ivf-blog'
  run hugo web server by typing this command 'hugo serve' and hit enter
 
  Step 4
- Copy the URL which will look like this http://localhost:1313/reporter/site into google chrome brownser. Make changes in visual studio code and press command and S to save the changes. Check changes in the preview window in chrome
+ Copy the URL which will look like this http://localhost:1313 into google chrome brownser. Make changes in visual studio code and press command and S to save the changes. Check changes in the preview window in chrome
 
  ## How to publish the website
  Step 1

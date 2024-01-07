@@ -14,7 +14,7 @@ weight = 1
 [[main]]
 parent = "Articles"
 name = "IVF"
-url = "articles/lifestyle/"
+url = "articles/ivf/"
 weight = 1
 
 

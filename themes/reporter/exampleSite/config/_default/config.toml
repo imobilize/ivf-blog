@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://demo.gethugothemes.com/reporter/site/"
+baseURL = "https://ivf-journey.com/"
 title = "Reporter Hugo"
 theme = "reporter"
 # post pagination
