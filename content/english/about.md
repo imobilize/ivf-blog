@@ -1,6 +1,6 @@
 ---
 title: ""
-image: "images/author.jpg"
+image: "images/aboutivf.jpg"
 description: "about"
 sidebar: true
 widgets: ["recommended","categories"]
