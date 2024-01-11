@@ -8,6 +8,12 @@
     <div class="row">
       <div class="col-lg-8 mb-5 mb-lg-0">
         <article>
+          <h1 class="my-3">{{.Title}}</h1>
+
+          {{ with .Params.about }}
+          <p class="my-4"><strong>{{ . }}</strong></p>
+          {{ end }}
+
           {{ $image:= .Params.image }}
           {{ if $image }}
           {{ if hasPrefix $image "http" }}
@@ -36,7 +42,6 @@
             </li>
           </ul>
 
-          <h1 class="my-3">{{.Title}}</h1>
 
           <ul class="post-meta mb-4">
             {{ if .Params.categories }}
