@@ -62,12 +62,20 @@ Whenever you make use of a feature that allows you to upload any type of content
 VIRUSES
 
 We do not guarantee that our Website will be secure or free from bugs or viruses. You are responsible for configuring your information technology, computer programmes and platform in order to access our Website. You should use your own virus protection software. You must not misuse our Website by knowingly introducing viruses, trojans, worms, logic bombs or other material which is malicious or technologically harmful. You must not attempt to gain unauthorised access to our Website, the server on which our Website is stored or any server, computer or database connected to our Website. You must not attack our Website via a denial-of-service attack or a distributed denial-of service attack. By breaching this provision, you would commit a criminal offence under the Computer Misuse Act 1990. We will report any such breach to the relevant law enforcement authorities and we will co-operate with those authorities by disclosing your identity to them. In the event of such a breach, your right to use our Website will cease immediately.   
-<br />
-ADVERTISEMENTS AND LINKS TO OTHER WEBSITES   
+<br /> 
+AFFILIATE / THIRD PARTY LINKS DISCLOSURE AND DISCLAIMER
 
-The Website contains links to other internet websites. These links are provided for your information only. We have no control over the contents of those sites or resources. We assume no responsibility for the content of websites linked on our Website. Such links should not be interpreted as endorsement by us of those linked websites or of those in control of them. We will not be liable for any and all loss or damage that may arise from your use of them.   
+We may partner with other businesses or become part of different affiliate marketing programs whose products or services may be promoted or advertised on the website in exchange for commissions and/or financial rewards when you click and/or purchase those products or services through our affiliate links. We will receive a commission if you make a purchase through our affiliate link at no extra cost to you.
 <br />
-As an additional precaution and subject to our limitation of liability, we urge you to be careful when purchasing anything online. Endeavour to make sure you’re using a secure connection before making payments. We strongly encourage you to make any appropriate investigations before proceeding with any online or offline transaction with any third parties.   
+We may also recommend other products, services, coaches and consultants but no such reference is intended to be an endorsement or statement that such information provided is accurate. We recommend these based on our personal experiences but it is still your responsibility to conduct your own due diligence to ensure you have obtained complete accurate information about such product, services, coaches and consultants.
+<br />
+We are a participant in the Amazon Services LLC Associates Program, which is an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com.
+<br />
+These affiliate or third party relationships in no way compromise the integrity of the content, information, services and materials being presented to you here, and you are under no obligation to click on these affiliate links to purchase those products or services being offered. These affiliate programs are selected based on personal experiences and preferences.
+<br />
+Although we provide these affiliate links on the website for your convenience, we have no control over these external websites and they are solely responsible for their own content and information presented.  Therefore, IVF Journey and/or its officers, employees, successors, shareholders, joint venture partners or anyone else working with us cannot be held liable or responsible for any content presented on these external websites and for any damages resulting from them.
+<br />
+This disclosure policy applies to all affiliate links we share on our website, social media, emails, programs, products such as courses, ebooks, services and through any other means of communication with you.
 <br />
 WAIVER
 

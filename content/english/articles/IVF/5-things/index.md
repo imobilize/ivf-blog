@@ -76,4 +76,6 @@ It will not be immediately obvious. It will not be an A-ha moment, but in time, 
 **You are infinitely wiser, infinitely stronger and acutely aware of how much of a miracle we all are.**<br />
 So there you have it - 5 things I wish I’d known before starting IVF. Are you on an IVF journey or about to embark on one? If so, let me know if these honest words have helped and/or resonated by commenting below.<br />
 For all the benefit of hindsight, there is ONE TRUTH I have learned that only comes with hard lessons - the strength of a woman is unmatched. Every woman I’ve met on this journey is strong, she has reserves deeper than she may even realise.<br />
-Regardless of her fertility status, she is fully woman.
+Regardless of her fertility status, she is fully woman.<br />
+<br />
+<span style="font-size:0.8em;">This site contains affiliate links, view the disclosure for more information</span>
