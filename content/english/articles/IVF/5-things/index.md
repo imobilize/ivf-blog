@@ -36,7 +36,8 @@ Hormones are powerful - amazingly powerful. If you’ve experienced PMS before, 
 As a result your body will change. In some cruel twisted way, you may even appear pregnant. Think bloating, abdominal bruising, water retention, weight gain, skin changes and an inability to exercise normally leading up to and for a two week period after egg retrieval. Not fun. Truth be told, I expected the hormones to play havoc with my moods but the the degree to which my body changed - totally unprepared for.<br />
 There are ways and means to support yourself through these changes. A good lymphatic massage (timed correctly) helps as well as sharing your vulnerability with your partner. Here's the trusty [lymphatic drainage tool](https://amzn.to/3RT50GQ) I have been using and swear by.<br />
 The thing I have found most beneficial?<br />
-Supportive self-talk. Affirmations always felt woo woo to me until I let the barrier drop. Personally, I found the silva method really helpful and once I got over myself, ‘every day in every way, I’m getting better and better and better’ became my mantra. Notice how you straighten your spine, lift your chin and feel empowered after repeating this aloud to yourself every day ;) <br />
+Supportive self-talk.<br />
+Affirmations always felt woo woo to me until I let the barrier drop. Personally, I found the silva method really helpful and once I got over myself, ‘every day in every way, I’m getting better and better and better’ became my mantra. Notice how you straighten your spine, lift your chin and feel empowered after repeating this aloud to yourself every day ;) <br />
 
 
 ## 3. It’s a lot of hurry up and wait
@@ -74,4 +75,5 @@ Even with the despair and feelings of loss that come with a failed IVF cycle, th
 It will not be immediately obvious. It will not be an A-ha moment, but in time, you will come to realise what you came through bruised you AND it shaped you.<br />
 **You are infinitely wiser, infinitely stronger and acutely aware of how much of a miracle we all are.**<br />
 So there you have it - 5 things I wish I’d known before starting IVF. Are you on an IVF journey or about to embark on one? If so, let me know if these honest words have helped and/or resonated by commenting below.<br />
-For all the benefit of hindsight, there is ONE TRUTH I have learned that only comes with hard lessons - the strength of a woman is unmatched. Every woman I’ve met on this journey is strong, she has reserves deeper than she may even realise. Regardless of her fertility status, she is fully woman.
+For all the benefit of hindsight, there is ONE TRUTH I have learned that only comes with hard lessons - the strength of a woman is unmatched. Every woman I’ve met on this journey is strong, she has reserves deeper than she may even realise.<br />
+Regardless of her fertility status, she is fully woman.
