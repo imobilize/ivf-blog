@@ -53,7 +53,10 @@ Read what you can about the particular type of IVF treatment you will be receivi
 ## 4. You may need more than one cycle
 
 Reasons for infertility are complex. Your set of circumstances will be unique to you - there could be  any number of things working against you - endometriosis, ovulatory dysfunction, diminished ovarian reserve are a few of the more common ones. There is also unexplained infertility. The reality is, although treatment has come on leaps and bounds in the last 30 years, there are still huge gaps in the scientific knowledge. In many ways the miracle of life remains a mystery.<br />
-That said, there is some solid evidence that breaks down IVF success rates by age. For women under 35 years old, the chances of success on the first cycle is 55.1%. For women aged 35- 37, it’s 40.5%. Women aged 38-40 old have a 26.4% chance of success on the first cycle and for women over 40 years old it’s 8.2%.<br />
+That said, there is some solid evidence that breaks down IVF success rates by age. Data from the CDC shows women under 35 years old, the chances of success on the first cycle is 55.1%. For women aged 35- 37, it’s 40.5%. Women aged 38-40 old have a 26.4% chance of success on the first cycle and for women over 40 years old it’s 8.2%.<br />
+
+![graph showing IVF success rates](ivf-success-rates.jpg "graph showing IVF success rates")
+
 (It is important to note that the above data only considers age and does not take into account any other possible contributing factors. Only a fertility doctor will be able to diagnose and give you the statistics most relevant to your circumstances).<br />
 Look the statistics are the statistics, we can’t shy away from them. It’s better to be informed of the reality and THEN choose to see the glass as half full. When I look at this graph, I personally see chances. That was not always the case…<br />
 and that’s OK. The IVF journey is a rollercoaster, truly.<br />
@@ -61,6 +64,8 @@ I do believe being equipped with this knowledge helps set realistic expectations
 
 
 ## 5. Your relationships will evolve
+
+![woman holding cup](relationship-with-self.jpg "woman holding cup")
 
 Your relationship with your partner, your relationship with your colleagues (if you’ve told your employer), your relationships with your friends and most importantly your relationship with yourself will all change.<br />
 In all my research, this is one thing that I rarely if ever read about. Looking back, of course it makes sense. By far the biggest impact is on the relationship you have with yourself. Sure there is an impact on your relationship with your partner and this is sometimes talked about. What I see very little written about or talked about is how much more you will learn about yourself.<br />
