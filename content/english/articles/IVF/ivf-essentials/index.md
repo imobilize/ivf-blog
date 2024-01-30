@@ -2,7 +2,7 @@
 title: "IVF Essentials"
 date: 2024-01-30T15:47:10+06:00
 image: "images/post/ivf-esssentials.jpg"
-images: ["images/post/ivf.essentials.jpg"]
+images: ["images/post/ivf-essentials.jpg"]
 description: "IVF essentials"
 categories: ["IVF"]
 about: This post is about IVF essentials
