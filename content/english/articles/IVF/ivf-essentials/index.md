@@ -2,14 +2,12 @@
 title: "IVF Essentials"
 date: 2024-01-30T15:47:10+06:00
 image: "images/post/ivf-esssentials.jpg"
-images: ["ivf.essentials.jpg"]
+images: ["images/post/ivf.essentials.jpg"]
 description: "IVF essentials"
 categories: ["IVF"]
 about: This post is about IVF essentials
 draft: false
 ---
-
-This post is all about IVF essentials.
 
 I have rounded up my tried and true IVF essentials. As an IVF warrior who has been through the process multiple times, I know first hand the products that have been worth the investment and those that have not.
 
