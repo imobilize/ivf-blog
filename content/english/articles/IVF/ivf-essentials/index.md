@@ -32,13 +32,17 @@ Outside of IVF treatment, supplements are what I have spent the most money on. U
 It turns out 95% of supplements are artificially derived meaning our bodies don't necessarily recognise them as food and therefore may not absorb them the same way. The two that I am recommending are food grown supplements/contain real food.<br />
 By far, the best prenatal I have found and the one I swear by is Wild Nutrition Fertility Support.<br />
 For a CHEAPER ALTERNATIVE that is still VERY EFFECTIVE, I recommend Megafood Baby & Me2. Like I said, if I was to put my money into only one essential it would be QUALITY supplements.<br />
+
+![ivf prenatal](ivf-prenatal.jpg "ivf prenatal")<br />
 **Supplements - CoQ10**
 
 I learned about CoQ10 in the early days of my IVF journey. Basically eggs require huge amounts of energy to develop and [research](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5870379/) has shown that CoQ10 helps with this. I take ubiquinol which is the active form of CoQ10 and honestly when I first started taking this the difference in my energy levels was stark!<br />
 I have tried so many supplements over the years and spent $1000s (eek) but I keep coming back to my trusted pre-natal and CoQ10 below.<br />
+
+![ivf ubiquinol](ivf-supplements.jpg "ivf ubiquinol")<br />
 **Acupuncture**
 
-[Research](https://www.ncbi.nlm.nih.gov/pubmed/21611904) has shown that acupuncture has a positive effect on regulating hormones. Always keen to try anything that may increase the chances of holding a healthy baby in my arms, I have undergone multiple courses of acupuncture. Without a doubt, after a session I feel less stressed and that can only be a good thing. It is quite expensive though so what I have been doing recently is self-accupressure. I bought the below book and very honestly, not to take anything away from the trained acupuncturists (who are FAB), I've found this to be effective in helping me relax in between sessions with the pro. My acupuncturist kindly showed me some points and recommended this book as a guide.<br />
+[Research](https://www.ncbi.nlm.nih.gov/pubmed/21611904) has shown that acupuncture has a positive effect on regulating hormones. Always keen to try anything that may increase the chances of holding a healthy baby in my arms, I have undergone multiple courses of acupuncture. Without a doubt, after a session I feel less stressed and that can only be a good thing. It is quite expensive though so what I have been doing recently is self-accupressure. I bought the below book and very honestly, not to take anything away from the trained acupuncturists (who are FAB), I've found this to be effective in helping me relax in between sessions with the pro. My acupuncturist kindly showed me some points and recommended [this book](https://amzn.to/42i3hzy) as a guide.<br />
 ## Starting IVF and IVF journey essentials
 
 **Planner/journal**

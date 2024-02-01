@@ -43,3 +43,30 @@ __thistextisbold__
 - - this seperatescontent - - -
 > this is a quote
 [text] (http://www.who.org/article)
+
+
+How to create an article
+Step 1
+Copy the word document and covert it into markdown. In order to do this select command A and then command C
+Go to this website https://euangoddard.github.io/clipboard2markdown/
+Paste the content into the window
+
+Step 2
+Copy the markdown using command a & command c
+
+Step 3
+Create a markdown document
+Create a folder under content/english, articled, IVF
+Right click IVF and choose create folder
+The  folder name should be the name of the article, all lower case, no spaces
+
+Step 4
+Right click the new folder and click new file. Name the file index.md
+
+Step 5
+Paste markdown copied in step 2
+
+Step  6
+Copy metadata from previous article and update values
+
+DON'T DELETE EXISITNG _index.md files
