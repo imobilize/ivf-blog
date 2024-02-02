@@ -15,11 +15,11 @@ These are products that I have been taking and using religiously and which I gen
 <span style="font-size:10.8em;"><div align="center">**This post is all about IVF essentials 2024.**</div></span>
 
 ## Table of Contents
-1. [Pre-IVF Essentials](#pre-ivf-essentials)
-2. [Starting IVF and IVF Journey essentials](#starting-ivf-and-ivf-journey-essentials)
-3. [Egg retrieval essentials](#egg-retrieval-essentials)
-4. [Embryo transfer essentials](#embryo-transfer-essentials)
-<br />
+- [Table of Contents](#table-of-contents)
+- [Pre-IVF Essentials](#pre-ivf-essentials)
+- [Starting IVF and IVF journey essentials](#starting-ivf-and-ivf-journey-essentials)
+- [Egg retrieval essentials](#egg-retrieval-essentials)
+- [Embryo transfer essentials](#embryo-transfer-essentials)
 
 Let's be honest - IVF is NOT cheap. If like me you're having to pay privately for treatment and do multiple cycles then the spending does quickly rack up. Obviously the stress of finances is not something you need to worry about on top of everything else. For that reason, I have researched (heavily) some cheaper versions of the more expensive things if money is a concern.<br />
 

@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "About IVF Journey"
 image: "images/about-ivf.jpeg"
 description: "about"
 sidebar: true
