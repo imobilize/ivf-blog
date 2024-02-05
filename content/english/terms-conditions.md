@@ -69,7 +69,7 @@ We may partner with other businesses or become part of different affiliate marke
 <br />
 We may also recommend other products, services, coaches and consultants but no such reference is intended to be an endorsement or statement that such information provided is accurate. We recommend these based on our personal experiences but it is still your responsibility to conduct your own due diligence to ensure you have obtained complete accurate information about such product, services, coaches and consultants.
 <br />
-We are a participant in the Amazon Services LLC Associates Program, which is an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com.
+We are a participant in the Amazon Services LLC Associates Program, which is an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com. As an Amazon Associate, we earn from qualifying purchases.
 <br />
 These affiliate or third party relationships in no way compromise the integrity of the content, information, services and materials being presented to you here, and you are under no obligation to click on these affiliate links to purchase those products or services being offered. These affiliate programs are selected based on personal experiences and preferences.
 <br />
