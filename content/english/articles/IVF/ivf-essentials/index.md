@@ -98,7 +98,8 @@ Shop weighted blanket [here](https://amzn.to/485V56P)
 
 Still on the sleep theme, I indulged in a silk sleep mask, just because! OK so it's not an IVF essential but it sure does make me feel like I've got my sh** together...on the hard nights when it really doesn't feel like anything is together.<br />   
 Shop Mulberry 22 Momme sleep mask [here](https://amzn.to/4bjRJ2Z)
-<br />   
+<br />  
+ 
 **Meditation**
 
 A good meditation to help clear and focus the mind on the present moment is a really valuable tool to have in your IVF essentials toolkit. I've mentioned before that I use the silva method - "every day in every way, I'm getting better and better and better" has literally been hard wired into my neural pathways now.<br />
