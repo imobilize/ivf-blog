@@ -74,6 +74,6 @@ mediaType = "application/manifest+json"
 rel = "manifest"
 
 [permalinks]
-  articles = "/:title"
+  articles = "/:slug"
   categories = "/:title"
   tags = "/:title"

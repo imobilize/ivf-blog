@@ -1,5 +1,6 @@
 ---
 title: "5 Most Effective Ways to manage IVF Weight Gain"
+slug: "ivf-weight-gain"
 date: 2024-03-31T15:47:10+06:00
 image: "images/post/ivf-weight-gain.jpg"
 images: ["images/post/ivf-weight-gain.jpg"]
@@ -19,9 +20,9 @@ I know not all women do experience it but most warriors I’ve spoken to in my c
 
 ## Table of Contents
 
-- [Most common contributing factors to IVF weight gain](#Most-common-contributing-factors-to-IVF-weight-gain)
-- [Is it fluid retention, bloating or excess fat?](#Is-it-fluid-retention-bloating-or-excess-fat?)
-- [Tried and tested ways to manage these side effects](#Tried-and-tested-ways-to-manage-these-side-effects)
+- [Most common contributing factors to IVF weight gain](#most-common-contributing-factors-to-ivf-weight-gain)
+- [Is it fluid retention, bloating or excess fat?](#is-it-fluid-retention-bloating-or-excess-fat)
+- [Tried and tested ways to manage these side effects](#tried-and-tested-ways-to-manage-these-side-effects)
 <br />   
 
 ## Most common contributing factors to IVF weight gain

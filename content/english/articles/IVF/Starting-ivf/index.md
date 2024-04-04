@@ -1,8 +1,9 @@
 ---
 title: "5 Things I Wish I Knew Before Starting IVF"
+slug: "Starting IVF"
 date: 2024-01-11T15:47:10+06:00
-image: "images/post/what-to-know-about-ivf.jpg"
-images: ["images/post/what-to-know-about-ivf.jpg"]
+image: "images/post/starting-ivf.jpg"
+images: ["images/post/starting-ivf.jpg"]
 description: "What to know about IVF"
 categories: ["IVF"]
 about: This post is about what to know about IVF
