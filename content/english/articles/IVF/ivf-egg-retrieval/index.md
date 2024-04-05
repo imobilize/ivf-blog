@@ -1,5 +1,5 @@
 ---
-title: "What You Need To Know About IVF Egg Retrieval"
+title: "The Most Importatnt Things You Need To Know About IVF Egg Retrieval"
 slug: "IVF Egg Retrieval"
 date: 2024-02-24T15:47:10+06:00
 image: "images/post/ivf-egg-retrieval.jpg"

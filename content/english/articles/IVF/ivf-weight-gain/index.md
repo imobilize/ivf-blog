@@ -1,5 +1,5 @@
 ---
-title: "5 Most Effective Ways to manage IVF Weight Gain"
+title: "5 Most Effective Ways to Manage IVF Weight Gain"
 slug: "ivf-weight-gain"
 date: 2024-03-31T15:47:10+06:00
 image: "images/post/ivf-weight-gain.jpg"
