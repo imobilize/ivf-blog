@@ -14,3 +14,16 @@
   X-XSS-Protection = "1; mode=block"
   Referrer-Policy = "same-origin"
   Strict-Transport-Security = "max-age=31536000; includeSubDomains; preload"
+
+
+[[redirects]]
+  from = "/what-you-need-to-know-about-ivf-egg-retrieval"
+  to = "/ivf-egg-retrieval"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/5-things-I-wish-I-knew-before-starting-ivf"
+  to = "/starting-ivf"
+  status = 301
+  force = true
