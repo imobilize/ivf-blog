@@ -1,6 +1,6 @@
 ---
 title: "IVF Essentials"
-heading: "IVF Essentials"
+slug: "IVF Essentials"
 date: 2024-01-30T15:47:10+06:00
 image: "images/post/ivf-essentials.jpg"
 images: ["images/post/ivf-essentials.jpg"]

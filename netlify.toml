@@ -23,7 +23,7 @@
   force = true
 
 [[redirects]]
-  from = "/5-things-I-wish-I-knew-before-starting-ivf"
+  from = "/5-things-i-wish-i-knew-before-starting-ivf"
   to = "/starting-ivf"
   status = 301
   force = true
