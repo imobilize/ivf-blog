@@ -80,3 +80,8 @@ For all the benefit of hindsight, there is ONE TRUTH I have learned that only co
 Regardless of her fertility status, she is fully woman.<br />
 <br />
 <span style="font-size:0.8em;">This site contains affiliate links, view the disclosure for more information</span>
+
+
+You may also like:
+
+[IVF Essentials](https://ivf-journey.com/ivf-essentials/)
