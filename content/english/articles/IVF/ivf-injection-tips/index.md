@@ -39,6 +39,7 @@ I would describe the after sting/ache as mildly uncomfortable. Four injections i
 * Blood-thinning injections that you may be prescribed after egg retrieval (also may cause some bruising)
 * Progesterone intramuscular injection<br />   
 
+<br />  
 Honestly, unless you have a needle phobia (in which case, speak to your clinic about how they can support you), the actual act of injecting IVF medication is really not as bad an experience as you would expect. It’s the build up to it and the scheduling that can cause some anxiety. Luckily there are practical steps you can take to make the process smoother and easier from day one. You will be surprised by how easily you adapt and how quickly it feels ordinary once you adopt these tips.<br />   
 
 ## Preparation Tips
