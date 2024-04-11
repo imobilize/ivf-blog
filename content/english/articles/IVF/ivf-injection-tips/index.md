@@ -66,7 +66,7 @@ Honestly, unless you have a needle phobia (in which case, speak to your clinic a
 
 ## Aftercare Tips
 
-10. Immediately after injecting, **massage the area for a few moments.** There is no need to cover the injection site with a plaster. During these few moments, I would imagine the medication reaching my ovaries and the follicles responding. This might not be for everyone but I’m a big believer in the power of visualisation.<br />   
+10. Immediately after injecting, **massage the area for a few moments.** There is no need to cover the injection site with a band-aid. During these few moments, I would imagine the medication reaching my ovaries and the follicles responding. This might not be for everyone but I’m a big believer in the power of visualisation.<br />   
 <br />   
 11. Be mindful of what you have just done. This is something I only picked up on my third cycle - the importance of **acknowledging the moment and the feelings you have about it.** I use a IVF journal to write down the time, the medication, the dosage and a few sentences about how I am feeling. I don’t know the neuroscience behind it but I do know taking one minute to jot these things down after administering the medication closes the loop for me and I’ve found this immensely helpful.<br />   
 
